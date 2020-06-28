@@ -1,5 +1,8 @@
 sdadasd
 <<<<<<< HEAD
+<<<<<<< HEAD
 asadsad
+=======
+>>>>>>> parent of f741cb6... change to tesst
 =======
 >>>>>>> parent of f741cb6... change to tesst
